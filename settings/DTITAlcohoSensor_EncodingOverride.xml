@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userOverrides>
+    <override>
+        <path>D:\dtitcode\DTITAlcohoSensor\SYSTEM\delay.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>D:\dtitcode\DTITAlcohoSensor\SYSTEM\inc\sys.h</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>D:\dtitcode\DTITAlcohoSensor\SYSTEM\sys.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>D:\dtitcode\DTITAlcohoSensor\USER\main_functions.c</path>
+        <encoding>System</encoding>
+    </override>
+</userOverrides>
